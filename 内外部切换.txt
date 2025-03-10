@@ -1,0 +1,4 @@
+"console": "integratedTerminal"
+##内部
+"console": "externalTerminal"
+##外部
